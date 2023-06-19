@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello2
+=======
+afsgjulilihlhkl
+>>>>>>> 866e232a4697448e160adc6ffb36a9f91de02a44
